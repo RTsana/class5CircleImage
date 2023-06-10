@@ -1,0 +1,12 @@
+.image-container {
+    display: flex;
+    justify-content:justify;
+  }
+  
+  .circular-image {
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+  }
+  
